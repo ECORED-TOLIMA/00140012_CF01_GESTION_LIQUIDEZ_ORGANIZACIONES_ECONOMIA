@@ -1,8 +1,8 @@
 name: Crear Dist
-
+ 
 on:
   workflow_dispatch:
-
+ 
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -16,13 +16,13 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/checkout@master
       - uses: actions/setup-node@master
-
+ 
       - name: Instalacion de dependencias
         run: npm install
-
+ 
       - name: construccion de dist
         run: npm run build
-
+ 
       - name: agregar nuevo dist a gh-pages
         run: |
           git config user.name dfvelasco
