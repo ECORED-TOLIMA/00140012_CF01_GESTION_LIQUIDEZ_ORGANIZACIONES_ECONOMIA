@@ -1,1 +1,1 @@
-module.exports = 'ECOBASE_SENA'
+module.exports = 'Diagnóstico de liquidez en organizaciones solidarias'
