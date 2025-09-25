@@ -91,7 +91,7 @@
             th(style="width: 15%; background-color: #FFFAE6;") Tipo de empresa solidaria
             th(style="width: 25%; background-color: #FFFAE6;") Definición
             th(style="width: 20%; background-color: #FFFAE6;") Ejemplos y subtipos
-            th(style="width: 20%; background-color: #FFFAE6;") Características Financieras clave
+            th(style="width: 20%; background-color: #FFFAE6;") Características financieras clave
             th(style="width: 20%; background-color: #FFFAE6;") Marco normativo
         tbody
           tr(data-aos="fade-right")

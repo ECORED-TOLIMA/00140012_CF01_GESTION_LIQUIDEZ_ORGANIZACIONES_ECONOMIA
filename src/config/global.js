@@ -186,7 +186,7 @@ export default {
     {
       tema: '1. Economía solidaria y su marco normativo',
       referencia:
-        'Congreso de la República de Colombia. (1988). Ley 79 de 1988. Por la cual se actualiza la Legislación Cooperativa.',
+        'Congreso de la República de Colombia. (1988). <em>Ley 79 de 1988. Por la cual se actualiza la Legislación Cooperativa.</em>',
       tipo: 'Documento legal (Ley)',
       link:
         'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=9211',
@@ -194,7 +194,7 @@ export default {
     {
       tema: '4. Liquidez financiera: fundamentos y análisis',
       referencia:
-        'Marcillo Parrales, D. V. & Chinga Flores, J. M. (2023, 19 de enero). Indicadores financieros y su influencia en la toma de decisiones del Supermercado Open 24 & 7, Portoviejo. Manabí. Revista FIPCAEC, 8(1), 895-918.',
+        'Marcillo Parrales, D. V. & Chinga Flores, J. M. (2023, 19 de enero). Indicadores financieros y su influencia en la toma de decisiones del Supermercado Open 24 & 7, Portoviejo. Manabí. <em>Revista FIPCAEC, 8(1), 895-918.</em>',
       tipo: 'Articulo',
       link: 'https://www.fipcaec.com/index.php/fipcaec/article/view/770',
     },
