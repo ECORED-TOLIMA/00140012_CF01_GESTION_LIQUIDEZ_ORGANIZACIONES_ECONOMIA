@@ -239,15 +239,15 @@ export default {
   referencias: [
     {
       referencia:
-        'Burbano Ruiz, J. E. (2011). Presupuestos: un enfoque estratégico, gestión y control de recursos. (4.a ed.). McGraw-Hill Latinoamericana.',
+        'Burbano Ruiz, J. E. (2011). <em>Presupuestos: un enfoque estratégico, gestión y control de recursos.</em> (4.a ed.). McGraw-Hill Latinoamericana.',
     },
     {
       referencia:
-        'León García, O. (2009). Administración Financiera. Prensa Moderna Editores.',
+        'León García, O. (2009). <em>Administración Financiera.</em> Prensa Moderna Editores.',
     },
     {
       referencia:
-        'Ortiz Anaya, H. (2018). Análisis Financiero Aplicado. Universidad Externado.',
+        'Ortiz Anaya, H. (2018). <em>Análisis Financiero Aplicado.</em> Universidad Externado.',
     },
   ],
   creditos: [

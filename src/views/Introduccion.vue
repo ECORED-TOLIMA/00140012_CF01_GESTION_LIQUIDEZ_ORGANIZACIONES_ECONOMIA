@@ -19,8 +19,8 @@
               img(src='@/assets/curso/temas/introduccion/img-01.png', alt='Imagen decorativa')
           .col-lg-6.col-12.order-lg-2.order-2
             .cajon.cajon.color-primario.p-4.mb-3
-              p.mb-0 Además, está orientado al fortalecimiento de competencias que permitan interpretar adecuadamente los movimientos financieros, clasificar la información contable, aplicar indicadores clave y emplear metodologías de análisis que faciliten la toma de decisiones en entornos reales. Además, se enfatiza la importancia de alinear la gestión financiera con los principios de equidad, transparencia y participación que caracterizan al sector solidario.
-            p.mb-0 No solo busca desarrollar habilidades técnicas, sino también fomentar una visión crítica y comprometida con el uso responsable de los recursos, reconociendo el papel estratégico de la liquidez en el cumplimiento de los fines sociales y económicos de las organizaciones de economía solidaria.
+              p.mb-0 Además, está orientado al fortalecimiento de competencias que permitan interpretar adecuadamente los movimientos financieros, clasificar la información contable, aplicar indicadores clave y emplear metodologías de análisis que faciliten la toma de decisiones en entornos reales. También, se enfatiza la importancia de alinear la gestión financiera con los principios de equidad, transparencia y participación que caracterizan al sector solidario.
+            p.mb-0 Este componente no solo busca desarrollar habilidades técnicas, sino también fomentar una visión crítica y comprometida con el uso responsable de los recursos, reconociendo el papel estratégico de la liquidez en el cumplimiento de los fines sociales y económicos de las organizaciones de economía solidaria.
 
     p.mb-4(data-aos="fade-left") Partiendo de lo anterior, se invita a que acceda al siguiente video, el cual relaciona la temática a tratar durante este componente formativo:
     

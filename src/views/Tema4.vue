@@ -87,19 +87,19 @@
           img(src='@/assets/curso/temas/tema4/img-05.svg' alt="Imagen decorativa")
           .tarjeta--boton.color-secundario.p-4.py-5.h-100(style="background-color:#E4FFF7")
             h4.text-center.mt-5(style="color:#12263F") El estado de situación financiera 
-            p.text-center.mb-0(style="color:#12263F") (anteriormente llamado balance general).
+            p.text-center.mb-0(style="color:#12263F") (Anteriormente llamado balance general).
 
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-left")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema4/img-06.svg' alt="Imagen decorativa")
           .tarjeta--boton.color-secundario.p-4.py-5.h-100(style="background-color:#E4FFF7")
-            h4.text-center.mt-5(style="color:#12263F") El estado de flujo de efectivo.
+            h4.text-center.mt-5(style="color:#12263F") El estado de flujo de efectivo
 
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema4/img-07.svg' alt="Imagen decorativa")
           .tarjeta--boton.color-secundario.p-4.py-5.h-100(style="background-color:#E4FFF7")
-            h4.text-center.mt-5(style="color:#12263F") El estado de resultados integrales.
+            h4.text-center.mt-5(style="color:#12263F") El estado de resultados integrales
 
     p.mb-0(data-aos="fade-left") Cada uno de ellos aporta información clave para diagnosticar y proyectar la estabilidad financiera de una organización solidaria.
     p.mb-4(data-aos="fade-right") A continuación, se da una explicación más detallada de cada uno: 
@@ -351,25 +351,25 @@
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/temas/tema4/img-24.svg' alt="Imagen decorativa")
-        p.text-center.text-bold.mb-0 La adquisición de materias primas.
+        p.text-center.text-bold.mb-0 La adquisición de materias primas
 
       .col-md-6.col-lg.tarjeta--tabla.p-4(style="background-color:#E4FFF7")
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/temas/tema4/img-25.svg' alt="Imagen decorativa")
-        p.text-center.text-bold.mb-0 El cumplimiento de la producción.
+        p.text-center.text-bold.mb-0 El cumplimiento de la producción
 
       .col-md-6.col-lg.tarjeta--tabla.p-4(style="background-color:#92D8FE")
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/temas/tema4/img-26.svg' alt="Imagen decorativa")
-        p.text-center.text-bold.mb-0 La atención de la demanda.
+        p.text-center.text-bold.mb-0 La atención de la demanda
 
       .col-md-6.col-lg.tarjeta--tabla.p-4(style="background-color:#E4FFF7")
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/temas/tema4/img-27.svg' alt="Imagen decorativa")
-        p.text-center.text-bold.mb-0 La administración eficiente del crédito a clientes.
+        p.text-center.text-bold.mb-0 La administración eficiente del crédito a clientes
 
     p(data-aos="fade-left") Es por esto que su monitoreo constante es vital para mantener una operación fluida y evitar interrupciones que afecten la productividad y la satisfacción del cliente.
     p.mb-4(data-aos="fade-right") En síntesis, el capital de trabajo no solo es un reflejo de la liquidez de una empresa, sino también de su #[b capacidad de adaptación, resistencia financiera y eficiencia operativa.] Administrarlo correctamente implica mantener un equilibrio saludable entre las cuentas por cobrar, los inventarios y las cuentas por pagar, de manera que se asegure un flujo de efectivo constante y sostenible a lo largo del tiempo.

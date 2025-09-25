@@ -65,7 +65,7 @@
                   img.h-100.my-auto(src='@/assets/curso/temas/tema1/img-13.svg' alt="Imagen decorativa")
               .col-lg-9.col-8.px-0.mb-4(data-aos="fade-down")
                 .cajon.bg-color-2.p-4.h-100
-                  p.mb-0 #[b Las cooperativas.]
+                  p.mb-0 #[b Las cooperativas]
 
           .col-lg-4.col-12
             .row.justify-content-center.h-100.w-100
@@ -74,7 +74,7 @@
                   img.h-100.my-auto(src='@/assets/curso/temas/tema1/img-14.svg' alt="Imagen decorativa")
               .col-lg-9.col-8.px-0.mb-4(data-aos="fade-down")
                 .cajon.bg-color-2.p-4.h-100
-                  p.mb-0 #[b Los fondos de empleados.]
+                  p.mb-0 #[b Los fondos de empleados]
                   
           .col-lg-4.col-12
             .row.justify-content-center.h-100.w-100
@@ -83,7 +83,7 @@
                   img.h-100.my-auto(src='@/assets/curso/temas/tema1/img-15.svg' alt="Imagen decorativa")
               .col-lg-9.col-8.px-0.mb-4(data-aos="fade-down")
                 .cajon.bg-color-2.p-4.h-100
-                  p.mb-0 #[b Las asociaciones mutuales.]
+                  p.mb-0 #[b Las asociaciones mutuales]
 
     p(data-aos="fade-right") La ley reconoce a estas entidades como organizaciones sin ánimo de lucro, democráticas y autónomas, que buscan el bienestar común de sus asociados mediante la producción y distribución equitativa de bienes, servicios y excedentes. 
     p.mb-5(data-aos="fade-left") La Ley 79 establece directrices claras sobre el capital social, el régimen de aportes, el destino de los excedentes, el control social y la participación de los asociados. Asimismo, plantea que estas organizaciones deben cumplir con principios como:
@@ -99,27 +99,27 @@
               .row.justify-content-center.mb-3
                 .col-7
                   img(src='@/assets/curso/temas/tema1/img-07.svg' alt='Imagen decorativa')
-              p.text-center La adhesión voluntaria.
+              p.text-center La adhesión voluntaria
             .tarjeta.bgslyder.p-4
               .row.justify-content-center.mb-3
                 .col-7
                   img(src='@/assets/curso/temas/tema1/img-08.svg' alt='Imagen decorativa')
-              p.text-center La participación democrática.
+              p.text-center La participación democrática
             .tarjeta.bgslyder.p-4
               .row.justify-content-center.mb-3
                 .col-7
                   img(src='@/assets/curso/temas/tema1/img-09.svg' alt='Imagen decorativa')
-              p.text-center La autonomía e independencia.
+              p.text-center La autonomía e independencia
             .tarjeta.bgslyder.p-4
               .row.justify-content-center.mb-3
                 .col-7
                   img(src='@/assets/curso/temas/tema1/img-10.svg' alt='Imagen decorativa')
-              p.text-center La educación y formación.
+              p.text-center La educación y formación
             .tarjeta.bgslyder.p-4
               .row.justify-content-center.mb-3
                 .col-7
                   img(src='@/assets/curso/temas/tema1/img-11.svg' alt='Imagen decorativa')
-              p.text-center La cooperación entre cooperativas.
+              p.text-center La cooperación entre cooperativas
 
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col-lg-10.col-12
