@@ -61,7 +61,6 @@
           .tarjeta.color1(style= "width: 100%")
             .p-4
               p Una organización con buena liquidez puede afrontar estas contingencias sin comprometer su estabilidad. 
-
       .col-lg-6.mb-3
         .tarjeta-avatar-b.h-100
           .tarjeta-avatar-b__img
@@ -86,13 +85,11 @@
           .tarjeta--boton.color-secundario.p-4.py-5.h-100(style="background-color:#E4FFF7")
             h4.text-center.mt-5(style="color:#12263F") El estado de situación financiera 
             p.text-center.mb-0(style="color:#12263F") (Anteriormente llamado balance general).
-
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-left")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema4/img-06.svg' alt="Imagen decorativa")
           .tarjeta--boton.color-secundario.p-4.py-5.h-100(style="background-color:#E4FFF7")
             h4.text-center.mt-5(style="color:#12263F") El estado de flujo de efectivo
-
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema4/img-07.svg' alt="Imagen decorativa")
@@ -108,11 +105,9 @@
           .row(titulo="Estado de situación financiera ")
             .col-lg-12.order-lg-1.order-2
               p Muestra el valor total de los activos, pasivos y patrimonio de la organización. Dentro de este informe, los activos corrientes como caja, bancos, cuentas por cobrar a corto plazo e inventarios se comparan con los pasivos corrientes; es decir, las deudas o compromisos exigibles en el corto plazo. Esta comparación es esencial para determinar la solvencia inmediata de la entidad. Como señala León García (2009), un análisis riguroso de este estado permite establecer indicadores como la razón corriente o el capital de trabajo, fundamentales para anticipar necesidades de financiación o ajustar políticas de gasto.
-
           .row(titulo="Estado de flujo de efectivo")
             .col-lg-12.order-lg-1.order-2
               p Ofrece una visión detallada de cómo se mueve el dinero en la organización. Este estado clasifica las entradas y salidas de efectivo en tres categorías: actividades operativas, de inversión y de financiación. Para las organizaciones solidarias, este informe permite evaluar si los ingresos generados por sus actividades sociales o comerciales son suficientes para cubrir sus egresos, o si dependen de fuentes externas de financiación. Según Ortiz Anaya (2018), este estado no solo muestra el comportamiento real del efectivo, sino que también permite identificar tendencias que podrían poner en riesgo la liquidez si no se gestionan adecuadamente.
-
           .row(titulo="Estado de resultados integrales")
             .col-lg-12.order-lg-1.order-2
               p Aunque no está enfocado directamente en la liquidez, sí ofrece señales importantes sobre la rentabilidad y la generación de excedentes, lo cual puede incidir en la disponibilidad de efectivo. Por ejemplo, si una organización presenta excedentes recurrentes pero una baja liquidez, esto puede indicar problemas de gestión del efectivo o de cobro de cartera. Por eso, el análisis de la liquidez debe hacerse de manera integrada, considerando la información contenida en todos los estados financieros relevantes. En el caso de las entidades solidarias, este análisis debe estar alineado con los principios de transparencia, equidad y sostenibilidad colectiva que caracterizan al sector.
@@ -137,7 +132,6 @@
           .col-lg-5
             h4 Razón corriente
             p Se calcula dividiendo los activos corrientes entre los pasivos corrientes. Una razón mayor a 1 indica que la organización tiene suficientes recursos líquidos para cubrir sus deudas inmediatas. Sin embargo, una razón excesivamente alta podría sugerir una acumulación ineficiente de activos sin rentabilidad. 
-
         .row.justify-content-center(titulo="b.")
           .col-lg-7.col-10.mb-lg-0.mb-4
             figure
@@ -145,7 +139,6 @@
           .col-lg-5
             h4 Prueba ácida (o razón rápida)
             p Excluye los inventarios de los activos corrientes antes de realizar la división. Este indicador ofrece una visión más exigente de la liquidez, especialmente útil en entidades donde los inventarios no son de fácil realización en efectivo.
-
         .row.justify-content-center(titulo="c.")
           .col-lg-7.col-10.mb-lg-0.mb-4
             figure
@@ -158,7 +151,6 @@
       .col-lg-3.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/temas/tema4/img-12.svg', alt='Imagen decorativa')
-
       .col-lg-7.col-sm-7.col-10.order-lg-1.order-2(data-aos="fade-right")
         .bloque-texto-b.color-primario.py-4
           .bloque-texto-b__texto
@@ -207,14 +199,12 @@
           .tarjeta--boton.color-secundario.p-4.py-5.h-100(style="background-color:#E4FFF7")
             h4.text-center.mt-5(style="color:#12263F") La razón corriente
             p.text-center.mb-0(style="color:#12263F") Relaciona los activos corrientes con los pasivos corrientes.
-
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-left")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema4/img-42.svg' alt="Imagen decorativa")
           .tarjeta--boton.color-secundario.p-4.py-5.h-100(style="background-color:#E4FFF7")
             h4.text-center.mt-5(style="color:#12263F") La prueba ácida o razón rápida
             p.text-center.mb-0(style="color:#12263F") Excluye los inventarios del cálculo para mostrar una visión más estricta de la liquidez.
-
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema4/img-43.svg' alt="Imagen decorativa")
@@ -245,7 +235,6 @@
       .col-lg-5.col-sm-7.col-10.order-lg-1.order-2(data-aos="fade-right")
         .cajon.cajon1.color-primario.p-4.mb-3.order-lg-1.order-2
           p.mb-0 En el ejemplo planteado, una empresa con activos corrientes por #[b $80.000.000] y pasivos corrientes por #[b $40.000.000], presenta una #[b razón corriente de 2.0]. Esto significa que por cada peso que debe pagar en el corto plazo, dispone de dos pesos en activos líquidos. A primera vista, esto se interpreta como una #[b posición financiera saludable], ya que indica que la empresa tiene el doble de recursos que deudas inmediatas, lo cual le da margen para operar con tranquilidad.
-
       .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/temas/tema4/img-18.svg', alt='Imagen decorativa')
@@ -284,7 +273,6 @@
         .cajon.cajon1.color-primario.p-4.mb-3.order-lg-1.order-2
           p #[b Ejemplo:] si una empresa tiene un activo corriente de $80.000.000 y dentro de este tiene inventarios por $20.000.000, su activo corriente sin inventarios sería de $60.000.000. Si sus pasivos corrientes suman $40.000.000, entonces:
           p.mb-0 #[b Prueba Ácida = (80.000.000 – 20.000.000) / 40.000.000 = 1.5]
-
       .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/temas/tema4/img-20.svg', alt='Imagen decorativa')
@@ -322,7 +310,6 @@
       .col-lg-5.order-lg-1.order-2(data-aos="fade-right")
         .cajon.cajon1.color-primario.p-4.mb-3.order-lg-1.order-2
           p.mb-0 #[b Ejemplo:] si una empresa tiene activos corrientes por $80.000.000 y pasivos corrientes por $40.000.000, su capital de trabajo será de $40.000.000. Esto significa que, una vez pagadas todas sus deudas inmediatas, aún le quedarán $40 millones para cubrir operaciones como compras, nómina, pagos de servicios, y otras necesidades operativas.
-
       .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/temas/tema4/img-39.svg', alt='Imagen decorativa')
@@ -344,19 +331,16 @@
           .col-4
             img(src='@/assets/curso/temas/tema4/img-24.svg' alt="Imagen decorativa")
         p.text-center.text-bold.mb-0 La adquisición de materias primas
-
       .col-md-6.col-lg.tarjeta--tabla.p-4(style="background-color:#E4FFF7")
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/temas/tema4/img-25.svg' alt="Imagen decorativa")
         p.text-center.text-bold.mb-0 El cumplimiento de la producción
-
       .col-md-6.col-lg.tarjeta--tabla.p-4(style="background-color:#92D8FE")
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/temas/tema4/img-26.svg' alt="Imagen decorativa")
         p.text-center.text-bold.mb-0 La atención de la demanda
-
       .col-md-6.col-lg.tarjeta--tabla.p-4(style="background-color:#E4FFF7")
         .row.justify-content-center.mb-3
           .col-4
@@ -391,7 +375,6 @@
               img(src="@/assets/curso/temas/tema4/icono-la.svg", alt="alt").img90.m-auto
           h4.text-center Días de inventario
           p.text-center.mb-0 Número promedio de días que tarda la empresa en vender su inventario.
-
       .col-xl-4.col-lg-8.mb-4.mb-xl-5
         .crd.crd--grayGrad(data-aos="flip-left")
           .bottomCircle.mb-5
@@ -399,7 +382,6 @@
               img(src="@/assets/curso/temas/tema4/icono-mo.svg", alt="alt").img90.m-auto
           h4.text-center Días de cuentas por cobrar
           p.text-center.mb-0 Tiempo que tarda en cobrarle a los clientes después de la venta.
-
       .col-xl-4.col-lg-8.mb-4.mb-xl-5
         .crd.crd--grayGrad(data-aos="flip-left")
           .bottomCircle.mb-5
@@ -414,7 +396,6 @@
         .col-md-12.tarjeta.color-primario.p-4.mb-4(style="background-color:#FCE898")
           p.text-bold.text-center.mb-0 #[em CCE = 45 + 30 – 35 = 40 días]
         p Esto significa, que, desde el momento en que la empresa invierte en inventario, hasta que recupera el efectivo de la venta, pasan #[b 40 días] en los que debe financiar sus operaciones. Este periodo debe ser gestionado con especial atención, ya que cuanto más corto sea el ciclo de conversión, #[b mayor será la liquidez y eficiencia en el uso del capital de trabajo.]
-
       .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/temas/tema4/img-40.png', alt='Imagen decorativa')
@@ -429,16 +410,13 @@
               .col-lg-3.col-6
                 figure
                   img(src='@/assets/curso/temas/tema4/img-29.svg', alt='Imagen decorativa')
-            
             h4.text-center.mb-5 CCE positivo
             p.mb-0 Indica que la empresa necesita financiar parte del ciclo operativo con recursos propios o con deuda, ya que debe esperar a recuperar el efectivo. 
-
           .col-xl.col-md-6.tarjeta.color-secundario.p-5(style="background-color:#E4FFF7")
             .row.justify-content-center.mb-3
               .col-lg-3.col-6
                 figure
                   img(src='@/assets/curso/temas/tema4/img-30.svg', alt='Imagen decorativa')
-            
             h4.text-center.mb-5 CCE negativo
             p.mb-0 Puede interpretarse favorablemente, ya que implica que la empresa recibe el pago de sus clientes antes de tener que pagar a sus proveedores. 
 
@@ -473,7 +451,6 @@
         p En el otro extremo, #[b una liquidez excesiva] también puede ser motivo de análisis. Si una empresa mantiene una razón corriente muy alta (por ejemplo, mayor a #[b 3.0]) o acumula grandes saldos de efectivo sin destinarlos a inversiones productivas, puede estar cayendo en una #[b ineficiencia en el uso de sus recursos.] El capital sin utilizar pierde valor en términos reales (por inflación) y representa oportunidades no aprovechadas para expandirse, mejorar procesos, capacitar personal, adquirir tecnología o aumentar la competitividad. En otras palabras, tener demasiada liquidez puede reflejar una actitud conservadora extrema o una falta de estrategia financiera clara.
         .cajon.cajon1.color-primario.p-4.mb-3.order-lg-1.order-2
           p.mb-0 Lo ideal, como lo plantea Ortiz (2011), es mantener la liquidez en niveles adecuados al tipo de negocio, su ciclo operativo y el contexto del sector. Una empresa comercial, por ejemplo, puede operar cómodamente con una razón corriente cercana a 1.5, mientras que una industria pesada, con mayores riesgos financieros y necesidades de reposición de inventarios, podría requerir niveles de liquidez más altos. #[b No existe un único estándar universal, pero sí debe buscarse un equilibrio sano y sostenible.]
-
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/temas/tema4/img-32.png', alt='Imagen decorativa')

@@ -23,25 +23,20 @@
               .col-lg-6.col-6
                 figure
                   img(src='@/assets/curso/temas/tema3/img-02.svg', alt='Imagen decorativa')
-            
             h4.text-center.mb-5 Ingresos
             p.mb-0 Aportes de asociados, rendimientos financieros, venta de servicios o recuperación de cartera.
-
           .col-xl.col-md-6.tarjeta.color-secundario.p-5(style="background-color:#FFFAE6")
             .row.justify-content-center.mb-3
               .col-lg-6.col-6
                 figure
                   img(src='@/assets/curso/temas/tema3/img-03.svg', alt='Imagen decorativa')
-            
             h4.text-center.mb-5 Egresos
-            p.mb-0 Pagos a proveedores, gastos operativos, beneficios sociales, y constitución de fondos. 
-
+            p.mb-0 Pagos a proveedores, gastos operativos, beneficios sociales, y constitución de fondos.
           .col-xl.col-md-6.tarjeta.color-secundario.p-5(style="background-color:#E4FFF7")
             .row.justify-content-center.mb-3
               .col-lg-6.col-6
                 figure
                   img(src='@/assets/curso/temas/tema3/img-04.svg', alt='Imagen decorativa')
-            
             h4.text-center.mb-5 Excedentes
             p.mb-0 Son los resultados positivos después de cubrir los costos y gastos, los cuales deben distribuirse conforme a los estatutos y normativas aplicables.
 
@@ -75,7 +70,6 @@
           .col-lg-5
             h4 Flujo de caja operativo
             p Contempla los ingresos y egresos derivados de las actividades misionales de la organización, como el recaudo de aportes, la prestación de servicios o el pago de nómina. Este tipo de flujo es vital para evaluar la capacidad de la organización para sostener su funcionamiento diario. 
-
         .row.justify-content-center(titulo="b.")
           .col-lg-7.col-10.mb-lg-0.mb-4
             figure
@@ -83,7 +77,6 @@
           .col-lg-5
             h4 Flujo de caja de inversión
             p Registra las entradas y salidas asociadas a la compra o venta de activos, inversiones en proyectos productivos o adquisición de bienes duraderos.
-            
         .row.justify-content-center(titulo="c.")
           .col-lg-7.col-10.mb-lg-0.mb-4
             figure
@@ -105,7 +98,6 @@
             h5.t1.mb-3 Flujo proyectado 
             h5.t2.mb-2 Flujo proyectado 
             p.mb-0 Es una estimación futura de los movimientos financieros y sirve para planificar y anticipar decisiones.  
-
       .col-xl-5.col-lg-6.col-md-6.col-12.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")(@mouseover="mostrarIndicador = true")
           .indicador--hover(v-if="mostrarIndicador")
@@ -150,7 +142,6 @@
             .col-lg-6.col-12.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema3/img-11.png' style="width: 500px" ,alt='').m-auto
-          
           .row.justify-content-center
             .col-lg-6.order-lg-1.order-2
               h4 Egresos
@@ -158,7 +149,6 @@
             .col-lg-6.col-12.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema3/img-12.png' style="width: 500px" ,alt='').m-auto
-          
           .row.justify-content-center
             .col-lg-6.order-lg-1.order-2
               h4 Excedentes
@@ -183,7 +173,6 @@
               img(src='@/assets/curso/temas/tema3/img-14.png', alt='Imagen decorativa')
           .col-lg-5.order-lg-2.order-2
             p Es una de las técnicas más utilizadas y consiste en listar todas las entradas y salidas reales de dinero, agrupadas por categorías funcionales. Esta técnica facilita el seguimiento de movimientos frecuentes como el recaudo de aportes, el pago de servicios o el desembolso de beneficios. También es útil para establecer relaciones entre tipos de egresos (por ejemplo, cuánto se destina a fondos sociales vs. gastos administrativos).
-
       .py-3.py-md-4(titulo="Clasificación indirecta")
         .row.justify-content-center.p-4
           .col-lg-7.col-10.order-lg-1.order-1.mb-lg-0.mb-4

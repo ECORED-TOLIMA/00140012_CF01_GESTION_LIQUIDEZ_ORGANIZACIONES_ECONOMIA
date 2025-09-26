@@ -64,7 +64,6 @@
           .col-lg-9.col-8.px-0.mb-4(data-aos="fade-down")
             .cajon.bg-color-2.p-4.h-100
               p.mb-0 #[b Las cooperativas]
-
       .col-lg-4.mb-4.mb-lg-0
         .row.justify-content-center.h-100.w-100
           .col-lg-auto.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
@@ -72,8 +71,7 @@
               img.h-100.my-auto(src='@/assets/curso/temas/tema1/img-14.svg' alt="Imagen decorativa")
           .col-lg-9.col-8.px-0.mb-4(data-aos="fade-down")
             .cajon.bg-color-2.p-4.h-100
-              p.mb-0 #[b Los fondos de empleados]
-              
+              p.mb-0 #[b Los fondos de empleados]    
       .col-lg-4.mb-4.mb-lg-0
         .row.justify-content-center.h-100.w-100
           .col-lg-auto.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")

@@ -43,14 +43,12 @@
           .tarjeta--boton.color-secundario.p-4.py-5.h-100(style="background-color:#E4FFF7")
             h4.text-center.mt-5(style="color:#12263F") Según su naturaleza
             p.text-center.mb-0(style="color:#12263F") Son organizaciones sin ánimo de lucro, basadas en la solidaridad, la autogestión y la ayuda mutua, cuyo fin es el bienestar colectivo antes que la ganancia individual.
-
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-left")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema2/img-04.svg' alt="Imagen decorativa")
           .tarjeta--boton.color-secundario.p-4.py-5.h-100(style="background-color:#E4FFF7")
             h4.text-center.mt-5(style="color:#12263F") Según su objeto social
             p.text-center.mb-0(style="color:#12263F") Pueden orientarse a actividades económicas, sociales, culturales, educativas o de previsión, siempre con el propósito de satisfacer necesidades comunes de sus asociados y la comunidad.
-
       .col-lg-4.col-8.mb-lg-0.mb-4(data-aos="fade-right")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema2/img-05.svg' alt="Imagen decorativa")
@@ -67,11 +65,9 @@
           .row(titulo="Cooperativas")
             .col-lg-12.order-lg-1.order-2
               p Son organizaciones de propiedad conjunta y control democrático, creadas para satisfacer necesidades económicas, sociales o culturales de sus asociados mediante una empresa de propiedad colectiva. Existen diversos tipos, como las cooperativas de ahorro y crédito, de trabajo asociado, multiactivas, especializadas o integrales. Cada una tiene particularidades financieras distintas, por ejemplo, las de ahorro y crédito gestionan recursos del público bajo regulación financiera más estricta. Como lo explica Ortiz Anaya (2018), estas diferencias influyen directamente en el diseño del flujo de caja, la medición de la liquidez y la estructura de fondos institucionales.
-
           .row(titulo="Fondos de empleados")
             .col-lg-12.order-lg-1.order-2
               p Son entidades creadas por trabajadores de una misma empresa o sector económico, que promueven el ahorro y brindan servicios financieros y sociales a sus miembros. Su estructura financiera suele centrarse en el manejo de aportes obligatorios y voluntarios, la colocación de créditos internos y el desarrollo de actividades de bienestar. A pesar de ser organizaciones de menor escala, requieren prácticas contables sólidas y políticas claras de distribución de excedentes. La correcta gestión de sus recursos fortalece la cohesión interna y la permanencia del fondo, y exige herramientas de análisis similares a las empleadas en cooperativas, aunque adaptadas a su tamaño y complejidad.
-
           .row(titulo="Asociaciones mutuales")
             .col-lg-12.order-lg-1.order-2
               p Se enfocan en la prestación de servicios de previsión, salud, educación o recreación a sus asociados, quienes contribuyen económicamente, mediante cuotas periódicas. Aunque no persiguen lucro, estas organizaciones deben garantizar la sostenibilidad financiera de sus servicios, por lo cual requieren una planeación adecuada de ingresos, egresos y reservas técnicas. Como lo plantea León García (2009), toda entidad, incluso las de orientación social necesita estructurar sus operaciones sobre fundamentos financieros sólidos, alineados con su objeto misional. Por ello, al analizar la liquidez de cualquier organización solidaria, es crucial considerar su tipo jurídico y operativo para aplicar el diagnóstico financiero más pertinente.
@@ -131,7 +127,6 @@
       .col-lg-5.col-sm-7.col-10.order-lg-1.order-2(data-aos="fade-right")
         .cajon.cajon1.color-primario.p-4.mb-3.order-lg-1.order-2
           p.mb-0 La implementación de políticas contables adecuadas implica también la adopción de normas técnicas, como las #[b Normas Internacionales de Información Financiera para PYMES (NIIF para PYMES)], aplicables a gran parte de estas entidades en Colombia. Estas normas permiten estandarizar la información financiera y generar reportes comparables que sirven de base para la toma de decisiones. Como lo señala Ortiz Anaya (2018), aplicar las NIIF contribuye a que los estados financieros reflejen la realidad económica de la organización, lo cual es esencial para realizar diagnósticos de liquidez y solvencia con fundamento técnico y legal.
-
       .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/temas/tema2/img-08.svg', alt='Imagen decorativa')
