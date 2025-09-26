@@ -4,21 +4,25 @@
     position: absolute
     top: 10%
     right: 8%
+    animation-delay: 0s;
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float1 4.2s ease-in-out infinite alternate
     position: absolute
     top: 34%
     right: 78%
+    animation-delay: 1s;
   &-3
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float1 3.4s ease-in-out infinite alternate
     position: absolute
     top: 70%
     right: 40%
+    animation-delay: 2.5s;
   &-4
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float1 2.2s ease-in-out infinite alternate
     position: absolute
     top: 63%
     right: 10%
+    animation-delay: 4.5s;
 
 
 @keyframes float1
@@ -46,7 +50,10 @@
   background-image: url("../assets/curso/portada/fondo-paginas.png") !important
 
 .boton *, .boton--sm *
-  color: #ffff !important
+  color: #fff !important
+
+.boton:active *, .boton--sm:active *, .boton:focus *, .boton--sm:focus *, .boton:hover *, .boton--sm:hover *
+  color: #fff !important
 
 .cajon.cajon, .tarjeta--C02, .tarjeta.color1
   background-color: #D5F1FF
@@ -360,3 +367,5 @@
     background-color: #D5F1FF
   &-2
     background-color: #0354A5
+
+

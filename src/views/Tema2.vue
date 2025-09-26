@@ -154,7 +154,7 @@
         figure
           img(src='@/assets/curso/temas/tema2/img-10.png', alt='Imagen decorativa')
       .col-lg-5(data-aos="fade-left")
-        .cajon.cajon.color-primario.p-4.mb-3
+        .cajon.cajon.color-primario.p-3.mb-3
           p.mb-0 En el contexto de la economía solidaria, la gestión de los soportes contables adquiere una dimensión adicional: fortalecer la transparencia y la confianza entre los asociados. La claridad documental contribuye a que la comunidad vinculada a la organización comprenda cómo se gestionan sus aportes, se distribuyen los excedentes y se toman decisiones financieras clave. Por ello, al diagnosticar la liquidez o al estructurar el flujo de caja, no basta con revisar cifras globales; es imprescindible validar los documentos que respaldan dichas cifras. Esta práctica fortalece el principio de control social, pilar esencial de las organizaciones solidarias y asegura una administración responsable y conforme con los fines colectivos.
 
 

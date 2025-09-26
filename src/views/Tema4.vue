@@ -45,7 +45,7 @@
 
     .row.justify-content-center.mb-4
       .col-lg-5.col-sm-7.col-10.order-lg-1.order-2(data-aos="fade-right")
-        .cajon.cajon1.color-primario.p-4.mb-3.order-lg-1.order-2
+        .cajon.cajon1.color-primario.p-3.mb-3.order-lg-1.order-2
           p.mb-0 En las organizaciones de economía solidaria, la liquidez adquiere una connotación adicional: garantiza no solo la continuidad operativa, sino también el cumplimiento del compromiso social con sus asociados y comunidades. Un bajo nivel de liquidez puede afectar la entrega de servicios, retrasar beneficios sociales o limitar el acceso a fondos de bienestar y educación. Por esta razón, más allá de una obligación contable, el control de la liquidez debe verse como una #[b herramienta de sostenibilidad institucional y confianza organizacional.] Ortiz Anaya (2018), destaca que una adecuada administración de la liquidez, permite anticiparse a posibles tensiones financieras y responder de forma oportuna y estratégica.
       .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         figure
@@ -246,7 +246,7 @@
         .col-lg-5.col-sm-7.col-10.mb-4(data-aos="flip-up")
           figure
             img(src='@/assets/curso/temas/tema4/img-19.png', alt='Imagen decorativa')
-        .col-lg-5(data-aos="fade-left")
+        .col-lg-5 
           p(data-aos="fade-left") Por otro lado, una #[b razón corriente inferior a 1.0] (es decir, cuando los pasivos superan a los activos corrientes), es una señal de alerta, ya que implica que la empresa no tiene suficientes recursos líquidos para cubrir sus deudas inmediatas. Esta situación podría poner en riesgo su operación cotidiana y obligarla a recurrir a financiamiento externo de forma urgente, generalmente con costos financieros más altos.
           p.mb-0(data-aos="fade-right") De forma ideal, la razón corriente debe situarse en un #[b rango entre 1.5 y 2.5], aunque esto puede variar dependiendo del tipo de industria. Por ejemplo, en sectores con alta rotación de inventarios como el comercio minorista, una razón corriente cercana a #[b 1.2] podría ser aceptable. En contraste, en industrias más estables o con ciclos financieros más largos, se espera una razón corriente más elevada como señal de prudencia financiera.
 
@@ -270,7 +270,7 @@
 
     .row.justify-content-center.mb-4
       .col-lg-5.order-lg-1.order-2(data-aos="fade-right")
-        .cajon.cajon1.color-primario.p-4.mb-3.order-lg-1.order-2
+        .cajon.cajon1.color-primario.p-3.mb-3.order-lg-1.order-2
           p #[b Ejemplo:] si una empresa tiene un activo corriente de $80.000.000 y dentro de este tiene inventarios por $20.000.000, su activo corriente sin inventarios sería de $60.000.000. Si sus pasivos corrientes suman $40.000.000, entonces:
           p.mb-0 #[b Prueba Ácida = (80.000.000 – 20.000.000) / 40.000.000 = 1.5]
       .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
@@ -453,7 +453,7 @@
           p.mb-0 Lo ideal, como lo plantea Ortiz (2011), es mantener la liquidez en niveles adecuados al tipo de negocio, su ciclo operativo y el contexto del sector. Una empresa comercial, por ejemplo, puede operar cómodamente con una razón corriente cercana a 1.5, mientras que una industria pesada, con mayores riesgos financieros y necesidades de reposición de inventarios, podría requerir niveles de liquidez más altos. #[b No existe un único estándar universal, pero sí debe buscarse un equilibrio sano y sostenible.]
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         figure
-          img(src='@/assets/curso/temas/tema4/img-32.png', alt='Imagen decorativa')
+          img(src='@/assets/curso/temas/tema4/img-44.png', alt='Imagen decorativa')
 
     p.mb-0(data-aos="fade-left") En conclusión, el análisis de la liquidez no debe limitarse a la observación de un número o fórmula, sino que debe considerar el comportamiento histórico, la calidad de los activos líquidos, la rotación del capital de trabajo, las políticas de crédito y cobro, así como la planificación financiera de la empresa. Una buena liquidez garantiza estabilidad, confianza y capacidad de maniobra; pero, debe estar alineada con la rentabilidad y eficiencia para no convertirse en una barrera silenciosa al crecimiento.
 

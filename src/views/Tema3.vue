@@ -121,8 +121,9 @@
         .col-10
           figure.desktop
             img(src='@/assets/curso/temas/tema3/figura-v01.svg', alt='Figura 3 que muestra una representación entre las entradas y salidas de gastos, basadas en un informe financiero.')
-          figure.movil
-            img(src='@/assets/curso/temas/tema3/figura-v01-02.svg', alt='Figura 3 que muestra una representación entre las entradas y salidas de gastos, basadas en un informe financiero.')
+      .col-12     
+        figure.movil
+          img(src='@/assets/curso/temas/tema3/figura-v01-02.svg', alt='Figura 3 que muestra una representación entre las entradas y salidas de gastos, basadas en un informe financiero.')
 
     Separador
 

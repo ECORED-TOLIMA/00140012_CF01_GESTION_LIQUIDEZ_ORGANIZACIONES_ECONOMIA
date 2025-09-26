@@ -7,7 +7,7 @@
     p.mb-5 En conclusión, el desarrollo de este componente prepara al aprendiz para comprender, evaluar y diagnosticar la liquidez como parte esencial de la planeación y el control financiero en el sector solidario, contribuyendo al cumplimiento de su misión económica y social.
 
     .row.justify-content-center
-      .col-lg-10.mb-5.bgs.p-4.brad
+      .col-lg-12.mb-5.bgs.p-4.brad
         figure
           img(src="@/assets/curso/temas/sintesis.svg", alt="En la síntesis del componente formativo Diagnóstico de liquidez en organizaciones solidarias, se aborda el concepto de economía solidaria, su marco legal en Colombia y los principios y valores que la sustentan. Se describen los tipos de empresas solidarias, su estructura organizacional, las políticas y soportes contables que garantizan transparencia. También se analiza el flujo de caja, sus tipos, la clasificación de ingresos, egresos y excedentes, así como las técnicas para su evaluación. Finalmente, se estudia la liquidez financiera, su importancia, los estados e indicadores que la reflejan y los métodos de análisis que permiten diagnosticar la capacidad de las organizaciones para cumplir sus obligaciones.")
       .col-auto

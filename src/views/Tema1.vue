@@ -30,8 +30,9 @@
         .col-10
           figure.desktop
             img(src='@/assets/curso/temas/tema1/figura-v01.svg', alt='Figura 1 que hace una analogía de lo que es el marco normativo de la economía solidaria.')
-          figure.movil
-            img(src='@/assets/curso/temas/tema1/figura-v01-02.svg', alt='Figura 1 que hace una analogía de lo que es el marco normativo de la economía solidaria.')
+      .col-12  
+        figure.movil
+          img(src='@/assets/curso/temas/tema1/figura-v01-02.svg', alt='Figura 1 que hace una analogía de lo que es el marco normativo de la economía solidaria.')
 
     Separador
 
@@ -95,27 +96,27 @@
               .row.justify-content-center.mb-3
                 .col-7
                   img(src='@/assets/curso/temas/tema1/img-07.svg' alt='Imagen decorativa')
-              p.text-center La adhesión voluntaria
+              p.text-center(style="color:#000 !important") La adhesión voluntaria
             .tarjeta.bgslyder.p-4
               .row.justify-content-center.mb-3
                 .col-7
                   img(src='@/assets/curso/temas/tema1/img-08.svg' alt='Imagen decorativa')
-              p.text-center La participación democrática
+              p.text-center(style="color:#000 !important") La participación democrática
             .tarjeta.bgslyder.p-4
               .row.justify-content-center.mb-3
                 .col-7
                   img(src='@/assets/curso/temas/tema1/img-09.svg' alt='Imagen decorativa')
-              p.text-center La autonomía e independencia
+              p.text-center(style="color:#000 !important") La autonomía e independencia
             .tarjeta.bgslyder.p-4
               .row.justify-content-center.mb-3
                 .col-7
                   img(src='@/assets/curso/temas/tema1/img-10.svg' alt='Imagen decorativa')
-              p.text-center La educación y formación
+              p.text-center(style="color:#000 !important") La educación y formación
             .tarjeta.bgslyder.p-4
               .row.justify-content-center.mb-3
                 .col-7
                   img(src='@/assets/curso/temas/tema1/img-11.svg' alt='Imagen decorativa')
-              p.text-center La cooperación entre cooperativas
+              p.text-center(style="color:#000 !important") La cooperación entre cooperativas
 
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col-lg-10.col-12
@@ -137,7 +138,7 @@
         figure
           img(src='@/assets/curso/temas/tema1/img-12.png', alt='Imagen decorativa')
       .col-lg-5(data-aos="fade-left")
-        .cajon.cajon.color-primario.p-4.mb-3
+        .cajon.cajon.color-primario.p-3.mb-3
           p.mb-0 Uno de los valores más significativos es la #[b participación democrática], que garantiza que todos los asociados tengan voz y voto en las decisiones clave de la organización. Esto promueve una cultura de corresponsabilidad, en la que el bienestar colectivo está por encima del interés individual. De igual forma, el principio de #[b autonomía e independencia] permite que estas entidades gestionen sus recursos y diseñen sus propios procesos bajo una lógica de sostenibilidad, siempre respetando el marco legal. Como lo señala Burbano Ruiz (2011), la planificación financiera en este tipo de organizaciones debe responder tanto a criterios técnicos como a los fines sociales y comunitarios que persiguen.
 
     p.mb-5(data-aos="fade-left") Estos principios también impactan directamente en la forma como se conciben la contabilidad, el flujo de caja y la evaluación de la liquidez en las entidades solidarias. Por ejemplo, la gestión financiera no se limita a maximizar utilidades, sino a garantizar el equilibrio económico para poder cumplir con sus compromisos sociales. Esta visión integral requiere herramientas que permitan analizar no solo la disponibilidad de recursos, sino también su uso responsable, su distribución equitativa y su capacidad para sostener proyectos productivos de interés colectivo. Por ello, a lo largo de este componente se trabajarán técnicas de análisis financiero adaptadas a estos principios, con el objetivo de fortalecer la sostenibilidad de las organizaciones solidarias.
@@ -151,8 +152,9 @@
         .col-10
           figure.desktop
             img(src='@/assets/curso/temas/tema1/figura-v02_imagen.svg', alt='Figura 2 que relaciona los 9 principios y valores que rigen la economía solidaria con su respectico icono que los identifica.')
-          figure.movil
-            img(src='@/assets/curso/temas/tema1/figura-v02-02_imagen.svg', alt='Figura 2 que relaciona los 9 principios y valores que rigen la economía solidaria con su respectico icono que los identifica.')
+      .col-12           
+        figure.movil
+          img(src='@/assets/curso/temas/tema1/figura-v02-02_imagen.svg', alt='Figura 2 que relaciona los 9 principios y valores que rigen la economía solidaria con su respectico icono que los identifica.')
 
 
 
