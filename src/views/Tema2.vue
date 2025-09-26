@@ -16,10 +16,10 @@
 
     .bg-c1.px-md-5.px-4.mb-5
       .row.justify-content-center.align-items-center
-        .col-lg-5.col-6.mb-4.mb-lg-0(data-aos="flip-up")
+        .col-lg-5.col-sm-7.col-10.mb-4(data-aos="flip-up")
           figure
             img(src='@/assets/curso/temas/tema2/img-02.svg', alt='Imagen decorativa')
-        .col-lg-5
+        .col-lg-5(data-aos="fade-left")
           p(data-aos="fade-left") En términos contables, estas entidades deben implementar políticas claras sobre el manejo de aportes, reservas y excedentes, así como establecer controles internos que permitan asegurar la transparencia y trazabilidad del uso de los recursos. Esta estructura debe reflejarse en los estados financieros, los cuales deben ser elaborados conforme a las normas contables vigentes y permitir la toma de decisiones informadas. León García (2009), resalta que una gestión contable eficaz es indispensable para evaluar la viabilidad de cualquier organización, ya que permite identificar oportunidades de mejora, prevenir riesgos y proyectar escenarios financieros de manera responsable.
 
     p.mb-5(data-aos="fade-right") Además, la estructura financiera de las organizaciones solidarias incluye elementos específicos como el fondo de solidaridad, el fondo de educación y el fondo de bienestar, los cuales están definidos por la normativa del sector y responden a finalidades colectivas. Estos fondos deben ser planeados, ejecutados y monitoreados con rigurosidad técnica, ya que representan compromisos adquiridos con los asociados y con la comunidad. 
@@ -128,15 +128,13 @@
     p.mb-5(data-aos="fade-left") Desde el punto de vista contable, las organizaciones solidarias deben contar con #[b políticas definidas] que regulen aspectos como la contabilización de aportes, el tratamiento de los excedentes, el registro de ingresos y egresos, la conformación de fondos sociales y el manejo de reservas legales. Estas políticas deben estar alineadas con el marco legal vigente y reflejar fielmente las particularidades del modelo solidario. Según León García (2009), unas políticas contables claras y coherentes no solo contribuyen a la transparencia financiera, sino que también facilitan la evaluación de la liquidez, el flujo de caja y la sostenibilidad institucional a largo plazo.
 
     .row.justify-content-center.mb-4
-      .col-lg-10.col-12
-        .row.justify-content-center.align-items-center
-          .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
-            .cajon.cajon1.color-primario.p-4.mb-3.order-lg-1.order-2
-              p La implementación de políticas contables adecuadas implica también la adopción de normas técnicas, como las #[b Normas Internacionales de Información Financiera para PYMES (NIIF para PYMES)], aplicables a gran parte de estas entidades en Colombia. Estas normas permiten estandarizar la información financiera y generar reportes comparables que sirven de base para la toma de decisiones. Como lo señala Ortiz Anaya (2018), aplicar las NIIF contribuye a que los estados financieros reflejen la realidad económica de la organización, lo cual es esencial para realizar diagnósticos de liquidez y solvencia con fundamento técnico y legal.
+      .col-lg-5.col-sm-7.col-10.order-lg-1.order-2(data-aos="fade-right")
+        .cajon.cajon1.color-primario.p-4.mb-3.order-lg-1.order-2
+          p.mb-0 La implementación de políticas contables adecuadas implica también la adopción de normas técnicas, como las #[b Normas Internacionales de Información Financiera para PYMES (NIIF para PYMES)], aplicables a gran parte de estas entidades en Colombia. Estas normas permiten estandarizar la información financiera y generar reportes comparables que sirven de base para la toma de decisiones. Como lo señala Ortiz Anaya (2018), aplicar las NIIF contribuye a que los estados financieros reflejen la realidad económica de la organización, lo cual es esencial para realizar diagnósticos de liquidez y solvencia con fundamento técnico y legal.
 
-          .col-lg-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-            figure
-              img(src='@/assets/curso/temas/tema2/img-08.svg', alt='Imagen decorativa')
+      .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
+        figure
+          img(src='@/assets/curso/temas/tema2/img-08.svg', alt='Imagen decorativa')
 
     p.mb-0(data-aos="fade-left") Una estructura organizacional bien definida y respaldada por políticas contables claras también es crucial para garantizar el control interno y mitigar riesgos financieros. En el contexto de la economía solidaria, este control no solo se ejerce desde lo administrativo, sino también desde la base asociativa, que tiene el derecho y el deber de supervisar el uso de los recursos. Esto refuerza el principio de responsabilidad compartida y la necesidad de contar con información contable confiable, oportuna y comprensible. Por tanto, la relación entre estructura organizativa, prácticas contables y análisis financiero es inseparable en la gestión de las organizaciones solidarias.
 
@@ -156,16 +154,13 @@
 
     p.mb-4(data-aos="fade-left") Los soportes financieros también tienen implicaciones normativas. De acuerdo con la legislación colombiana y en especial con lo establecido en el Decreto 2649 de 1993 (antes de la plena implementación de NIIF), todo hecho económico debe ser comprobado con un soporte válido, el cual debe cumplir requisitos de integridad, autenticidad y legalidad. Hoy en día, bajo las NIIF y el marco de las Normas de Aseguramiento de la Información, las organizaciones están llamadas a mantener archivos organizados, seguros y auditables, que respalden no solo sus registros contables, sino también los informes financieros que entregan a asociados, autoridades de control y demás partes interesadas.
 
-    .row.justify-content-center.mb-4(data-aos="flip-up")
-      .col-lg-10.col-12
-        .row.justify-content-center.align-items-center
-          .col-lg-6.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
-            figure
-              img(src='@/assets/curso/temas/tema2/img-10.png', alt='Imagen decorativa')
-          
-          .col-lg-6.col-12.order-lg-2.order-2
-            .cajon.cajon.color-primario.p-4.mb-3
-              p.mb-0 En el contexto de la economía solidaria, la gestión de los soportes contables adquiere una dimensión adicional: fortalecer la transparencia y la confianza entre los asociados. La claridad documental contribuye a que la comunidad vinculada a la organización comprenda cómo se gestionan sus aportes, se distribuyen los excedentes y se toman decisiones financieras clave. Por ello, al diagnosticar la liquidez o al estructurar el flujo de caja, no basta con revisar cifras globales; es imprescindible validar los documentos que respaldan dichas cifras. Esta práctica fortalece el principio de control social, pilar esencial de las organizaciones solidarias y asegura una administración responsable y conforme con los fines colectivos.
+    .row.justify-content-center.mb-5
+      .col-lg-5.col-sm-7.col-10.mb-4(data-aos="flip-up")
+        figure
+          img(src='@/assets/curso/temas/tema2/img-10.png', alt='Imagen decorativa')
+      .col-lg-5(data-aos="fade-left")
+        .cajon.cajon.color-primario.p-4.mb-3
+          p.mb-0 En el contexto de la economía solidaria, la gestión de los soportes contables adquiere una dimensión adicional: fortalecer la transparencia y la confianza entre los asociados. La claridad documental contribuye a que la comunidad vinculada a la organización comprenda cómo se gestionan sus aportes, se distribuyen los excedentes y se toman decisiones financieras clave. Por ello, al diagnosticar la liquidez o al estructurar el flujo de caja, no basta con revisar cifras globales; es imprescindible validar los documentos que respaldan dichas cifras. Esta práctica fortalece el principio de control social, pilar esencial de las organizaciones solidarias y asegura una administración responsable y conforme con los fines colectivos.
 
 
 

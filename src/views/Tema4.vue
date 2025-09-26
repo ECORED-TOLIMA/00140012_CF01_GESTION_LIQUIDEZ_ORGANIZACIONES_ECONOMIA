@@ -29,10 +29,10 @@
           p.mb-0 Por ejemplo, una cooperativa puede experimentar altos ingresos en ciertas épocas del año, pero bajos flujos en otras, lo que exige una gestión anticipada del efectivo. 
 
     .row.justify-content-center.mb-0
-      .col-lg-4.col-6.mb-4.mb-lg-0(data-aos="fade-left")
+      .col-lg-4.col-sm-7.col-10.mb-4(data-aos="flip-up")
         figure
           img(src='@/assets/curso/temas/tema4/img-03.png', alt='Imagen decorativa')
-      .col-lg-6
+      .col-lg-6.col-sm-7.col-10.mb-4(data-aos="flip-up")
         p(data-aos="fade-right") Ortiz Anaya (2018) enfatiza que el diagnóstico de liquidez en este tipo de entidades no puede realizarse con fórmulas estándar exclusivamente; es necesario interpretar los resultados a la luz de la dinámica asociativa y del propósito colectivo que guía sus operaciones.
         p(data-aos="fade-left") Por ello, el análisis de liquidez no debe verse como un ejercicio aislado, sino como un proceso articulado con la planeación financiera, la gestión presupuestal y el seguimiento contable. Las decisiones que se toman a partir de este análisis como aplazar inversiones, ajustar gastos o buscar nuevas fuentes de ingreso, deben estar orientadas por el principio de sostenibilidad solidaria. En últimas, garantizar la liquidez es asegurar que la organización pueda seguir cumpliendo su rol social, manteniendo la confianza de sus asociados y proyectando su permanencia en el tiempo. Esta relación entre liquidez y sostenibilidad será profundizada en los próximos subtemas de este componente formativo.
 
@@ -44,14 +44,12 @@
     p.mb-5(data-aos="fade-right") La liquidez es la capacidad de una organización para disponer de efectivo o de activos fácilmente convertibles en efectivo para cumplir sus obligaciones inmediatas. Esta condición financiera refleja qué tan solvente es una entidad en el corto plazo; es decir, si cuenta con los recursos necesarios para pagar gastos operativos, servicios, proveedores, salarios y compromisos institucionales sin recurrir a endeudamientos innecesarios. Como lo plantea León García (2009), la liquidez es una señal clave de estabilidad financiera y eficiencia administrativa, especialmente en contextos donde los ingresos no son constantes.
 
     .row.justify-content-center.mb-4
-      .col-lg-10.col-12
-        .row.justify-content-center.align-items-center
-          .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
-            .cajon.cajon1.color-primario.p-4.mb-3.order-lg-1.order-2
-              p.mb-0 En las organizaciones de economía solidaria, la liquidez adquiere una connotación adicional: garantiza no solo la continuidad operativa, sino también el cumplimiento del compromiso social con sus asociados y comunidades. Un bajo nivel de liquidez puede afectar la entrega de servicios, retrasar beneficios sociales o limitar el acceso a fondos de bienestar y educación. Por esta razón, más allá de una obligación contable, el control de la liquidez debe verse como una #[b herramienta de sostenibilidad institucional y confianza organizacional.] Ortiz Anaya (2018), destaca que una adecuada administración de la liquidez, permite anticiparse a posibles tensiones financieras y responder de forma oportuna y estratégica.
-          .col-lg-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-            figure
-              img(src='@/assets/curso/temas/tema4/img-04.svg', alt='Imagen decorativa')
+      .col-lg-5.col-sm-7.col-10.order-lg-1.order-2(data-aos="fade-right")
+        .cajon.cajon1.color-primario.p-4.mb-3.order-lg-1.order-2
+          p.mb-0 En las organizaciones de economía solidaria, la liquidez adquiere una connotación adicional: garantiza no solo la continuidad operativa, sino también el cumplimiento del compromiso social con sus asociados y comunidades. Un bajo nivel de liquidez puede afectar la entrega de servicios, retrasar beneficios sociales o limitar el acceso a fondos de bienestar y educación. Por esta razón, más allá de una obligación contable, el control de la liquidez debe verse como una #[b herramienta de sostenibilidad institucional y confianza organizacional.] Ortiz Anaya (2018), destaca que una adecuada administración de la liquidez, permite anticiparse a posibles tensiones financieras y responder de forma oportuna y estratégica.
+      .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
+        figure
+          img(src='@/assets/curso/temas/tema4/img-04.svg', alt='Imagen decorativa')
 
     p.mb-4(data-aos="fade-left") La importancia de la liquidez también se relaciona con la #[b capacidad de adaptación] de la organización, frente a cambios del entorno económico. Factores como inflación, aumento en los costos operativos, variación en el comportamiento de los asociados o disminución de ingresos por servicios, pueden generar presiones sobre el flujo de efectivo. 
 
@@ -157,11 +155,11 @@
             p Calculado como la diferencia entre activos corrientes y pasivos corrientes. Este indicador muestra el monto disponible para operar después de cubrir las obligaciones inmediatas. Si el capital de trabajo es positivo, la organización tiene margen de maniobra; si es negativo, enfrenta una posible situación de iliquidez.
 
     .row.justify-content-center.align-items-center
-      .col-lg-3.col-12.mb-3.d-lg-flex.d-none.order-lg-2.order-2(data-aos="fade-left")
+      .col-lg-3.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/temas/tema4/img-12.svg', alt='Imagen decorativa')
 
-      .col-lg-7.col-12.mb-3.order-lg-1.order-1(data-aos="fade-right")
+      .col-lg-7.col-sm-7.col-10.order-lg-1.order-2(data-aos="fade-right")
         .bloque-texto-b.color-primario.py-4
           .bloque-texto-b__texto
             p Como lo advierte León García (2009), estos indicadores deben interpretarse con cuidado, considerando el ciclo operativo de la entidad, la estacionalidad de sus ingresos y la naturaleza de sus compromisos sociales y financieros.
@@ -244,26 +242,24 @@
     p.mb-5(data-aos="fade-left") La #[b razón corriente] es uno de los indicadores más utilizados para medir la #[b liquidez general de una empresa.] Su fórmula consiste en dividir el total de activos corrientes, entre el total de pasivos corrientes. Esta relación busca responder una pregunta clave: ¿cuántos recursos líquidos o de fácil conversión tiene la empresa por cada peso que debe pagar en el corto plazo?
 
     .row.justify-content-center.mb-4
-      .col-lg-10.col-12
-        .row.justify-content-center.align-items-center
-          .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
-            .cajon.cajon1.color-primario.p-4.mb-3.order-lg-1.order-2
-              p.mb-0 En el ejemplo planteado, una empresa con activos corrientes por #[b $80.000.000] y pasivos corrientes por #[b $40.000.000], presenta una #[b razón corriente de 2.0]. Esto significa que por cada peso que debe pagar en el corto plazo, dispone de dos pesos en activos líquidos. A primera vista, esto se interpreta como una #[b posición financiera saludable], ya que indica que la empresa tiene el doble de recursos que deudas inmediatas, lo cual le da margen para operar con tranquilidad.
+      .col-lg-5.col-sm-7.col-10.order-lg-1.order-2(data-aos="fade-right")
+        .cajon.cajon1.color-primario.p-4.mb-3.order-lg-1.order-2
+          p.mb-0 En el ejemplo planteado, una empresa con activos corrientes por #[b $80.000.000] y pasivos corrientes por #[b $40.000.000], presenta una #[b razón corriente de 2.0]. Esto significa que por cada peso que debe pagar en el corto plazo, dispone de dos pesos en activos líquidos. A primera vista, esto se interpreta como una #[b posición financiera saludable], ya que indica que la empresa tiene el doble de recursos que deudas inmediatas, lo cual le da margen para operar con tranquilidad.
 
-          .col-lg-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-            figure
-              img(src='@/assets/curso/temas/tema4/img-18.svg', alt='Imagen decorativa')
+      .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
+        figure
+          img(src='@/assets/curso/temas/tema4/img-18.svg', alt='Imagen decorativa')
 
     p.mb-4(data-aos="fade-left") Sin embargo, es importante tener en cuenta que una #[b razón corriente "alta" no siempre es sinónimo de eficiencia]. Por ejemplo, si buena parte de esos activos corrientes están compuestos por inventarios que no se están vendiendo o por cuentas por cobrar de difícil recaudo, entonces la empresa podría tener una liquidez “aparente”, pero no efectiva. En ese sentido, la calidad de los activos es tan importante como su cantidad.
 
     .bg-c1.px-md-5.px-4.mb-4
       .row.justify-content-center.align-items-center
-        .col-lg-5.col-6.mb-4.mb-lg-0(data-aos="flip-up")
+        .col-lg-5.col-sm-7.col-10.mb-4(data-aos="flip-up")
           figure
             img(src='@/assets/curso/temas/tema4/img-19.png', alt='Imagen decorativa')
-        .col-lg-5
+        .col-lg-5(data-aos="fade-left")
           p(data-aos="fade-left") Por otro lado, una #[b razón corriente inferior a 1.0] (es decir, cuando los pasivos superan a los activos corrientes), es una señal de alerta, ya que implica que la empresa no tiene suficientes recursos líquidos para cubrir sus deudas inmediatas. Esta situación podría poner en riesgo su operación cotidiana y obligarla a recurrir a financiamiento externo de forma urgente, generalmente con costos financieros más altos.
-          p(data-aos="fade-right") De forma ideal, la razón corriente debe situarse en un #[b rango entre 1.5 y 2.5], aunque esto puede variar dependiendo del tipo de industria. Por ejemplo, en sectores con alta rotación de inventarios como el comercio minorista, una razón corriente cercana a #[b 1.2] podría ser aceptable. En contraste, en industrias más estables o con ciclos financieros más largos, se espera una razón corriente más elevada como señal de prudencia financiera.
+          p.mb-0(data-aos="fade-right") De forma ideal, la razón corriente debe situarse en un #[b rango entre 1.5 y 2.5], aunque esto puede variar dependiendo del tipo de industria. Por ejemplo, en sectores con alta rotación de inventarios como el comercio minorista, una razón corriente cercana a #[b 1.2] podría ser aceptable. En contraste, en industrias más estables o con ciclos financieros más largos, se espera una razón corriente más elevada como señal de prudencia financiera.
 
     p.mb-4(data-aos="fade-left") En conclusión, este indicador no debe analizarse de manera aislada. Es recomendable #[b complementarlo con la prueba ácida, el capital de trabajo y el análisis del flujo de efectivo], para obtener una visión completa de la capacidad real de pago de corto plazo. Además, se debe considerar la naturaleza de los activos, la antigüedad de las cuentas por cobrar y la estacionalidad del negocio; factores que inciden directamente en la interpretación de la liquidez.
 
@@ -284,25 +280,23 @@
     p.mb-5(data-aos="fade-right") Este indicador busca responder: ¿qué tan solvente es la empresa si se eliminan los inventarios de la ecuación? En otras palabras, #[b ¿la organización podría pagar sus deudas inmediatas solo con su efectivo, cuentas por cobrar y otros activos más líquidos?] Es una medida más conservadora de la liquidez, útil para detectar situaciones en las que la liquidez aparente podría estar sobreestimada debido a un exceso de inventarios acumulados.
 
     .row.justify-content-center.mb-4
-      .col-lg-10.col-12
-        .row.justify-content-center.align-items-center
-          .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
-            .cajon.cajon1.color-primario.p-4.mb-3.order-lg-1.order-2
-              p #[b Ejemplo:] si una empresa tiene un activo corriente de $80.000.000 y dentro de este tiene inventarios por $20.000.000, su activo corriente sin inventarios sería de $60.000.000. Si sus pasivos corrientes suman $40.000.000, entonces:
-              p.mb-0 #[b Prueba Ácida = (80.000.000 – 20.000.000) / 40.000.000 = 1.5]
+      .col-lg-5.order-lg-1.order-2(data-aos="fade-right")
+        .cajon.cajon1.color-primario.p-4.mb-3.order-lg-1.order-2
+          p #[b Ejemplo:] si una empresa tiene un activo corriente de $80.000.000 y dentro de este tiene inventarios por $20.000.000, su activo corriente sin inventarios sería de $60.000.000. Si sus pasivos corrientes suman $40.000.000, entonces:
+          p.mb-0 #[b Prueba Ácida = (80.000.000 – 20.000.000) / 40.000.000 = 1.5]
 
-          .col-lg-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-            figure
-              img(src='@/assets/curso/temas/tema4/img-20.svg', alt='Imagen decorativa')
+      .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
+        figure
+          img(src='@/assets/curso/temas/tema4/img-20.svg', alt='Imagen decorativa')
 
     p.mb-4(data-aos="fade-left") Este resultado significa que la empresa tiene #[b $1,50 por cada $1 de deuda de corto plazo], considerando únicamente sus activos más líquidos (excluyendo los inventarios). Esta es una señal positiva, ya que muestra que, en caso de urgencia, la empresa podría cubrir sus obligaciones sin necesidad de liquidar inventarios, lo que generalmente requiere más tiempo y puede implicar descuentos u otras pérdidas.
     
     .bg-c1.px-md-5.px-4.mb-4
       .row.justify-content-center.align-items-center
-        .col-lg-5.col-6.mb-4.mb-lg-0(data-aos="flip-up")
+        .col-lg-5.col-sm-7.col-10.mb-4(data-aos="flip-up")
           figure
             img(src='@/assets/curso/temas/tema4/img-21.png', alt='Imagen decorativa')
-        .col-lg-5
+        .col-lg-5(data-aos="fade-left")
           p(data-aos="fade-right") Ahora bien, si la prueba ácida resulta inferior a #[b 1.0], la empresa podría estar enfrentando un #[b riesgo real de iliquidez], especialmente si sus inventarios no se venden con facilidad. Esto puede ocurrir en empresas que tienen mucho inventario inmovilizado o que dependen demasiado de ventas a crédito, sin una política de cobranza efectiva.
           p(data-aos="fade-left") Por el contrario, una prueba ácida excesivamente alta, por ejemplo, superior a 3.0 también podría ser motivo de análisis, ya que indicaría que la empresa está acumulando demasiado efectivo o cuentas por cobrar, en lugar de invertir esos recursos de manera productiva. En estos casos, se debe evaluar si se están desaprovechando oportunidades de crecimiento o mejora operativa.
 
@@ -325,24 +319,22 @@
     p.mb-5(data-aos="fade-right") Este indicador se calcula simplemente restando los pasivos corrientes (deudas que vencen en menos de un año) de los activos corrientes (efectivo, cuentas por cobrar, inventarios, etc.). 
 
     .row.justify-content-center.mb-4
-      .col-lg-10.col-12
-        .row.justify-content-center.align-items-center
-          .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
-            .cajon.cajon1.color-primario.p-4.mb-3.order-lg-1.order-2
-              p.mb-0 #[b Ejemplo:] si una empresa tiene activos corrientes por $80.000.000 y pasivos corrientes por $40.000.000, su capital de trabajo será de $40.000.000. Esto significa que, una vez pagadas todas sus deudas inmediatas, aún le quedarán $40 millones para cubrir operaciones como compras, nómina, pagos de servicios, y otras necesidades operativas.
+      .col-lg-5.order-lg-1.order-2(data-aos="fade-right")
+        .cajon.cajon1.color-primario.p-4.mb-3.order-lg-1.order-2
+          p.mb-0 #[b Ejemplo:] si una empresa tiene activos corrientes por $80.000.000 y pasivos corrientes por $40.000.000, su capital de trabajo será de $40.000.000. Esto significa que, una vez pagadas todas sus deudas inmediatas, aún le quedarán $40 millones para cubrir operaciones como compras, nómina, pagos de servicios, y otras necesidades operativas.
 
-          .col-lg-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-            figure
-              img(src='@/assets/curso/temas/tema4/img-39.svg', alt='Imagen decorativa')
+      .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
+        figure
+          img(src='@/assets/curso/temas/tema4/img-39.svg', alt='Imagen decorativa')
 
     p.mb-4(data-aos="fade-right") Una lectura positiva del capital de trabajo, implica que la empresa tiene #[b margen de maniobra para operar sin depender exclusivamente de líneas de crédito u otras formas de financiamiento de emergencia.] Sin embargo, un capital de trabajo excesivamente alto podría significar que la empresa tiene recursos ociosos (por ejemplo, mucho efectivo sin invertir o inventarios innecesarios), lo cual también puede ser ineficiente. Por eso, más que su valor absoluto, lo importante es que este indicador esté en #[b equilibrio con el tamaño y tipo de operación de la empresa.]
 
     .bg-c1.px-md-5.px-4.mb-5
       .row.justify-content-center.align-items-center
-        .col-lg-5.col-6.mb-4.mb-lg-0(data-aos="flip-up")
+        .col-lg-5.col-sm-7.col-10.mb-4(data-aos="flip-up")
           figure
             img(src='@/assets/curso/temas/tema4/img-23.png', alt='Imagen decorativa')
-        .col-lg-5
+        .col-lg-5(data-aos="fade-left")
           p(data-aos="fade-left") Cuando el capital de trabajo es #[b negativo] (es decir, cuando el pasivo corriente supera al activo corriente), la empresa se encuentra en una situación crítica: no tiene suficientes recursos para atender sus compromisos de corto plazo, lo que puede generar problemas de liquidez, pérdida de confianza con los proveedores, dificultades para sostener la operación y eventualmente, insolvencia. Retomando a Ortiz (2011), esta situación es especialmente riesgosa en contextos de alta inflación, incertidumbre económica o baja rotación de cartera.
           p(data-aos="fade-right") Este indicador también tiene una estrecha relación con la #[b gestión del ciclo operativo], ya que un capital de trabajo adecuado facilita:
 
@@ -417,17 +409,15 @@
           p.text-center.mb-0 Plazo promedio que tiene la empresa para pagar a sus proveedores.
 
     .row.justify-content-center.mb-4
-      .col-lg-10.col-12
-        .row.justify-content-center.align-items-center
-          .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
-            p.mb-4 Por ejemplo, si una empresa tarda en promedio 45 días en vender sus inventarios, 30 días en cobrar a sus clientes y tiene un plazo de 35 días para pagar a sus proveedores, el cálculo sería:
-            .col-md-12.tarjeta.color-primario.p-4.mb-4(style="background-color:#FCE898")
-              p.text-bold.text-center.mb-0 #[em CCE = 45 + 30 – 35 = 40 días]
-            p Esto significa, que, desde el momento en que la empresa invierte en inventario, hasta que recupera el efectivo de la venta, pasan #[b 40 días] en los que debe financiar sus operaciones. Este periodo debe ser gestionado con especial atención, ya que cuanto más corto sea el ciclo de conversión, #[b mayor será la liquidez y eficiencia en el uso del capital de trabajo.]
+      .col-lg-5.order-lg-1.order-2(data-aos="fade-right")
+        p.mb-4 Por ejemplo, si una empresa tarda en promedio 45 días en vender sus inventarios, 30 días en cobrar a sus clientes y tiene un plazo de 35 días para pagar a sus proveedores, el cálculo sería:
+        .col-md-12.tarjeta.color-primario.p-4.mb-4(style="background-color:#FCE898")
+          p.text-bold.text-center.mb-0 #[em CCE = 45 + 30 – 35 = 40 días]
+        p Esto significa, que, desde el momento en que la empresa invierte en inventario, hasta que recupera el efectivo de la venta, pasan #[b 40 días] en los que debe financiar sus operaciones. Este periodo debe ser gestionado con especial atención, ya que cuanto más corto sea el ciclo de conversión, #[b mayor será la liquidez y eficiencia en el uso del capital de trabajo.]
 
-          .col-lg-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-            figure
-              img(src='@/assets/curso/temas/tema4/img-40.png', alt='Imagen decorativa')
+      .col-lg-5.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
+        figure
+          img(src='@/assets/curso/temas/tema4/img-40.png', alt='Imagen decorativa')
 
     p.mb-4(data-aos="flip-up") Con respecto a los CCE: 
 
@@ -478,17 +468,15 @@
         p.mb-0 Una #[b liquidez insuficiente], evidenciada a través de indicadores como una razón corriente menor a #[b 1.0], una prueba ácida preocupantemente baja o un capital de trabajo negativo, representa una #[b alerta crítica] para la empresa. Esta situación puede derivar en retrasos en los pagos a proveedores, sanciones por incumplimientos contractuales, pérdida de credibilidad en el mercado e incluso, en casos extremos, en una #[b crisis de insolvencia]. Es decir, la empresa podría no tener la capacidad para sostener su operación diaria, a pesar de ser potencialmente rentable desde el punto de vista contable.
 
     .row.justify-content-center.mb-4
-      .col-lg-10.col-12
-        .row.justify-content-center.align-items-center
-          .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
-            p Por ejemplo, una empresa que venda mucho y genere utilidades sobre el papel, pero tenga un largo periodo de recaudo de cartera, podría experimentar dificultades para pagar su nómina, proveedores o impuestos si no cuenta con reservas de liquidez suficientes. Esto ocurre con frecuencia en negocios que ofrecen ventas a crédito, pero no implementan una política efectiva de cobranza. En este caso, la #[b liquidez deficiente puede ser consecuencia de una mala gestión de cuentas por cobrar, más que de falta de ingresos.]
-            p En el otro extremo, #[b una liquidez excesiva] también puede ser motivo de análisis. Si una empresa mantiene una razón corriente muy alta (por ejemplo, mayor a #[b 3.0]) o acumula grandes saldos de efectivo sin destinarlos a inversiones productivas, puede estar cayendo en una #[b ineficiencia en el uso de sus recursos.] El capital sin utilizar pierde valor en términos reales (por inflación) y representa oportunidades no aprovechadas para expandirse, mejorar procesos, capacitar personal, adquirir tecnología o aumentar la competitividad. En otras palabras, tener demasiada liquidez puede reflejar una actitud conservadora extrema o una falta de estrategia financiera clara.
-            .cajon.cajon1.color-primario.p-4.mb-3.order-lg-1.order-2
-              p.mb-0 Lo ideal, como lo plantea Ortiz (2011), es mantener la liquidez en niveles adecuados al tipo de negocio, su ciclo operativo y el contexto del sector. Una empresa comercial, por ejemplo, puede operar cómodamente con una razón corriente cercana a 1.5, mientras que una industria pesada, con mayores riesgos financieros y necesidades de reposición de inventarios, podría requerir niveles de liquidez más altos. #[b No existe un único estándar universal, pero sí debe buscarse un equilibrio sano y sostenible.]
+      .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
+        p Por ejemplo, una empresa que venda mucho y genere utilidades sobre el papel, pero tenga un largo periodo de recaudo de cartera, podría experimentar dificultades para pagar su nómina, proveedores o impuestos si no cuenta con reservas de liquidez suficientes. Esto ocurre con frecuencia en negocios que ofrecen ventas a crédito, pero no implementan una política efectiva de cobranza. En este caso, la #[b liquidez deficiente puede ser consecuencia de una mala gestión de cuentas por cobrar, más que de falta de ingresos.]
+        p En el otro extremo, #[b una liquidez excesiva] también puede ser motivo de análisis. Si una empresa mantiene una razón corriente muy alta (por ejemplo, mayor a #[b 3.0]) o acumula grandes saldos de efectivo sin destinarlos a inversiones productivas, puede estar cayendo en una #[b ineficiencia en el uso de sus recursos.] El capital sin utilizar pierde valor en términos reales (por inflación) y representa oportunidades no aprovechadas para expandirse, mejorar procesos, capacitar personal, adquirir tecnología o aumentar la competitividad. En otras palabras, tener demasiada liquidez puede reflejar una actitud conservadora extrema o una falta de estrategia financiera clara.
+        .cajon.cajon1.color-primario.p-4.mb-3.order-lg-1.order-2
+          p.mb-0 Lo ideal, como lo plantea Ortiz (2011), es mantener la liquidez en niveles adecuados al tipo de negocio, su ciclo operativo y el contexto del sector. Una empresa comercial, por ejemplo, puede operar cómodamente con una razón corriente cercana a 1.5, mientras que una industria pesada, con mayores riesgos financieros y necesidades de reposición de inventarios, podría requerir niveles de liquidez más altos. #[b No existe un único estándar universal, pero sí debe buscarse un equilibrio sano y sostenible.]
 
-          .col-lg-6.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-            figure
-              img(src='@/assets/curso/temas/tema4/img-32.png', alt='Imagen decorativa')
+      .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
+        figure
+          img(src='@/assets/curso/temas/tema4/img-32.png', alt='Imagen decorativa')
 
     p.mb-0(data-aos="fade-left") En conclusión, el análisis de la liquidez no debe limitarse a la observación de un número o fórmula, sino que debe considerar el comportamiento histórico, la calidad de los activos líquidos, la rotación del capital de trabajo, las políticas de crédito y cobro, así como la planificación financiera de la empresa. Una buena liquidez garantiza estabilidad, confianza y capacidad de maniobra; pero, debe estar alineada con la rentabilidad y eficiencia para no convertirse en una barrera silenciosa al crecimiento.
 
@@ -505,22 +493,22 @@
         PasosB.color-acento-botones
           .row
             .col-lg-6.order-2.order-lg-1
-              h4 Análisis vertical
-              p.mb-0 Consiste en evaluar la proporción que representa cada cuenta dentro de los estados financieros. Por ejemplo, se puede analizar qué porcentaje del activo total está representado por la caja y bancos, o qué parte del pasivo corresponde a deudas a corto plazo. Esta técnica permite identificar concentraciones de riesgo y evaluar si los recursos disponibles son proporcionales a las necesidades operativas. En el diagnóstico de liquidez, el análisis vertical ayuda a visualizar rápidamente la estructura de los recursos líquidos y sus implicaciones.
+              h4(style="color:#000 !important") Análisis vertical
+              p.mb-0(style="color:#000 !important") Consiste en evaluar la proporción que representa cada cuenta dentro de los estados financieros. Por ejemplo, se puede analizar qué porcentaje del activo total está representado por la caja y bancos, o qué parte del pasivo corresponde a deudas a corto plazo. Esta técnica permite identificar concentraciones de riesgo y evaluar si los recursos disponibles son proporcionales a las necesidades operativas. En el diagnóstico de liquidez, el análisis vertical ayuda a visualizar rápidamente la estructura de los recursos líquidos y sus implicaciones.
             .col-lg-6.col-10.order-1.order-lg-2.mb-4  
               figure
                 img(src='@/assets/curso/temas/tema4/img-33.png', alt='Imagen decorativa')
           .row
             .col-lg-6.order-2.order-lg-1
-              h4 Análisis horizontal
-              p.mb-0 Examina la evolución de las cuentas financieras a lo largo del tiempo. Permite identificar aumentos o disminuciones en el efectivo disponible, en las cuentas por cobrar o en los pasivos exigibles. Aplicado a la liquidez, este análisis revela tendencias que pueden alertar sobre una posible pérdida de capacidad de pago o, por el contrario, sobre una mejora sostenida en la disponibilidad de recursos. Esta técnica es especialmente útil en organizaciones solidarias que presentan comportamientos financieros estacionales o que han implementado cambios estratégicos recientes.
+              h4(style="color:#000 !important") Análisis horizontal
+              p.mb-0(style="color:#000 !important") Examina la evolución de las cuentas financieras a lo largo del tiempo. Permite identificar aumentos o disminuciones en el efectivo disponible, en las cuentas por cobrar o en los pasivos exigibles. Aplicado a la liquidez, este análisis revela tendencias que pueden alertar sobre una posible pérdida de capacidad de pago o, por el contrario, sobre una mejora sostenida en la disponibilidad de recursos. Esta técnica es especialmente útil en organizaciones solidarias que presentan comportamientos financieros estacionales o que han implementado cambios estratégicos recientes.
             .col-lg-6.col-10.order-1.order-lg-2.mb-4
               figure
                 img(src='@/assets/curso/temas/tema4/img-34.png', alt='Imagen decorativa')
           .row
             .col-lg-6.order-2.order-lg-1
-              h4 Análisis de sensibilidad
-              p.mb-0 Permite simular distintos escenarios ante posibles variaciones en los ingresos, egresos o costos operativos. Esta herramienta es útil para anticipar cómo afectaría la liquidez una disminución en los aportes de los asociados, un aumento en los gastos administrativos o una demora en el recaudo. En el entorno de la economía solidaria, estas simulaciones permiten tomar decisiones preventivas que protejan el equilibrio financiero sin comprometer la misión social.
+              h4(style="color:#000 !important") Análisis de sensibilidad
+              p.mb-0(style="color:#000 !important") Permite simular distintos escenarios ante posibles variaciones en los ingresos, egresos o costos operativos. Esta herramienta es útil para anticipar cómo afectaría la liquidez una disminución en los aportes de los asociados, un aumento en los gastos administrativos o una demora en el recaudo. En el entorno de la economía solidaria, estas simulaciones permiten tomar decisiones preventivas que protejan el equilibrio financiero sin comprometer la misión social.
             .col-lg-6.col-10.order-1.order-lg-2.mb-4
               figure
                 img(src='@/assets/curso/temas/tema4/img-35.png', alt='Imagen decorativa')

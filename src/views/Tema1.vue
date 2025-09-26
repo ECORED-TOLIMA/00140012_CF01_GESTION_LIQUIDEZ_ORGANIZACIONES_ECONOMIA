@@ -55,35 +55,33 @@
 
     p.mb-4(data-aos="fade-right") En Colombia, el marco legal de la economía solidaria tiene como pilar fundamental la #[b Ley 79 de 1988], por medio de la cual se actualizó la legislación cooperativa. Esta norma define los principios rectores, la naturaleza jurídica y los mecanismos de funcionamiento de las organizaciones solidarias, entre ellas:
 
-    .row.justify-content-center.mb-3
-      .col-12
-        .row.justify-content-center
-          .col-lg-4.col-12
-            .row.justify-content-center.h-100.w-100
-              .col-lg-auto.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
-                .cajon.bg-color-1.p-0.h-100
-                  img.h-100.my-auto(src='@/assets/curso/temas/tema1/img-13.svg' alt="Imagen decorativa")
-              .col-lg-9.col-8.px-0.mb-4(data-aos="fade-down")
-                .cajon.bg-color-2.p-4.h-100
-                  p.mb-0 #[b Las cooperativas]
+    .row.align-items-center
+      .col-lg-4.mb-4.mb-lg-0
+        .row.justify-content-center.h-100.w-100
+          .col-lg-auto.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
+            .cajon.bg-color-1.p-0.h-100
+              img.h-100.my-auto(src='@/assets/curso/temas/tema1/img-13.svg' alt="Imagen decorativa")
+          .col-lg-9.col-8.px-0.mb-4(data-aos="fade-down")
+            .cajon.bg-color-2.p-4.h-100
+              p.mb-0 #[b Las cooperativas]
 
-          .col-lg-4.col-12
-            .row.justify-content-center.h-100.w-100
-              .col-lg-auto.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
-                .cajon.bg-color-1.p-0.h-100
-                  img.h-100.my-auto(src='@/assets/curso/temas/tema1/img-14.svg' alt="Imagen decorativa")
-              .col-lg-9.col-8.px-0.mb-4(data-aos="fade-down")
-                .cajon.bg-color-2.p-4.h-100
-                  p.mb-0 #[b Los fondos de empleados]
-                  
-          .col-lg-4.col-12
-            .row.justify-content-center.h-100.w-100
-              .col-lg-auto.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
-                .cajon.bg-color-1.p-0.h-100
-                  img.h-100.my-auto(src='@/assets/curso/temas/tema1/img-15.svg' alt="Imagen decorativa")
-              .col-lg-9.col-8.px-0.mb-4(data-aos="fade-down")
-                .cajon.bg-color-2.p-4.h-100
-                  p.mb-0 #[b Las asociaciones mutuales]
+      .col-lg-4.mb-4.mb-lg-0
+        .row.justify-content-center.h-100.w-100
+          .col-lg-auto.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
+            .cajon.bg-color-1.p-0.h-100
+              img.h-100.my-auto(src='@/assets/curso/temas/tema1/img-14.svg' alt="Imagen decorativa")
+          .col-lg-9.col-8.px-0.mb-4(data-aos="fade-down")
+            .cajon.bg-color-2.p-4.h-100
+              p.mb-0 #[b Los fondos de empleados]
+              
+      .col-lg-4.mb-4.mb-lg-0
+        .row.justify-content-center.h-100.w-100
+          .col-lg-auto.col-3.col-sm-2.px-0.mb-4(data-aos="flip-up")
+            .cajon.bg-color-1.p-0.h-100
+              img.h-100.my-auto(src='@/assets/curso/temas/tema1/img-15.svg' alt="Imagen decorativa")
+          .col-lg-9.col-8.px-0.mb-4(data-aos="fade-down")
+            .cajon.bg-color-2.p-4.h-100
+              p.mb-0 #[b Las asociaciones mutuales]
 
     p(data-aos="fade-right") La ley reconoce a estas entidades como organizaciones sin ánimo de lucro, democráticas y autónomas, que buscan el bienestar común de sus asociados mediante la producción y distribución equitativa de bienes, servicios y excedentes. 
     p.mb-5(data-aos="fade-left") La Ley 79 establece directrices claras sobre el capital social, el régimen de aportes, el destino de los excedentes, el control social y la participación de los asociados. Asimismo, plantea que estas organizaciones deben cumplir con principios como:
@@ -136,15 +134,13 @@
 
     p.mb-4(data-aos="fade-right") Las organizaciones de economía solidaria, se sustentan sobre un conjunto de principios y valores que orientan su actuación y diferencian su lógica de gestión de la de las empresas tradicionales. Entre los principios fundamentales reconocidos en la #[b Ley 79 de 1988] se destacan la ayuda mutua, la equidad, la democracia, la solidaridad, la responsabilidad social, la honestidad y la autogestión. Estos principios no son solamente ideales éticos, sino criterios operativos que guían la toma de decisiones, la distribución de excedentes, la relación con los asociados y la forma en que se administran los recursos económicos.
 
-    .row.justify-content-center.mb-4(data-aos="flip-up")
-      .col-lg-10.col-12
-        .row.justify-content-center.align-items-center
-          .col-lg-6.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-3
-            figure
-              img(src='@/assets/curso/temas/tema1/img-12.png', alt='Imagen decorativa')
-          .col-lg-6.col-12.order-lg-2.order-2
-            .cajon.cajon.color-primario.p-4.mb-3
-              p.mb-0 Uno de los valores más significativos es la #[b participación democrática], que garantiza que todos los asociados tengan voz y voto en las decisiones clave de la organización. Esto promueve una cultura de corresponsabilidad, en la que el bienestar colectivo está por encima del interés individual. De igual forma, el principio de #[b autonomía e independencia] permite que estas entidades gestionen sus recursos y diseñen sus propios procesos bajo una lógica de sostenibilidad, siempre respetando el marco legal. Como lo señala Burbano Ruiz (2011), la planificación financiera en este tipo de organizaciones debe responder tanto a criterios técnicos como a los fines sociales y comunitarios que persiguen.
+    .row.justify-content-center.mb-4
+      .col-lg-5.col-sm-7.col-10.mb-4(data-aos="flip-up")
+        figure
+          img(src='@/assets/curso/temas/tema1/img-12.png', alt='Imagen decorativa')
+      .col-lg-5(data-aos="fade-left")
+        .cajon.cajon.color-primario.p-4.mb-3
+          p.mb-0 Uno de los valores más significativos es la #[b participación democrática], que garantiza que todos los asociados tengan voz y voto en las decisiones clave de la organización. Esto promueve una cultura de corresponsabilidad, en la que el bienestar colectivo está por encima del interés individual. De igual forma, el principio de #[b autonomía e independencia] permite que estas entidades gestionen sus recursos y diseñen sus propios procesos bajo una lógica de sostenibilidad, siempre respetando el marco legal. Como lo señala Burbano Ruiz (2011), la planificación financiera en este tipo de organizaciones debe responder tanto a criterios técnicos como a los fines sociales y comunitarios que persiguen.
 
     p.mb-5(data-aos="fade-left") Estos principios también impactan directamente en la forma como se conciben la contabilidad, el flujo de caja y la evaluación de la liquidez en las entidades solidarias. Por ejemplo, la gestión financiera no se limita a maximizar utilidades, sino a garantizar el equilibrio económico para poder cumplir con sus compromisos sociales. Esta visión integral requiere herramientas que permitan analizar no solo la disponibilidad de recursos, sino también su uso responsable, su distribución equitativa y su capacidad para sostener proyectos productivos de interés colectivo. Por ello, a lo largo de este componente se trabajarán técnicas de análisis financiero adaptadas a estos principios, con el objetivo de fortalecer la sostenibilidad de las organizaciones solidarias.
 

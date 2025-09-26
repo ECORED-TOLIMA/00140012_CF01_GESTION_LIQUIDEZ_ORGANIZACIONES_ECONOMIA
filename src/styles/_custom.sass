@@ -83,6 +83,17 @@
 .tarjeta.tarjeta--gris.fondo
   background-image: url("../assets/curso/temas/tema3/fondo-slyder.png")
 
+.tarjeta--BG01
+  background-image: url("../assets/curso/temas/tema3/fondo-slyder-v2.png")
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: center
+  margin-inline: -3rem !important
+  p, h4
+    color: white !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
+
 .BGIMG01
   background-image: url("../assets/curso/temas/tema3/fondo-slyder-v2.png")
 
@@ -90,18 +101,13 @@
 
 .slyder-a__btn--sigt, .slyder-a__btn--atrs
   background-color: #AB0808
-  color: #ffff !important
-  background-image: url(../assets/bullets/arrow-white.svg)
   background-repeat: no-repeat
   background-position: center
-
-.slyder-a__tipo-b .slyder-a__btn--atrs
-  transform: rotate(180deg)
-  left: 15px
-
-.slyder-a__tipo-b .slyder-a__btn--sigt
-  transform: rotate(0deg)
-  right: 15px
+  background-image: url("../assets/componentes/arrow_v2.svg")
+  opacity: 1
+  @media (max-width: $bp-max-xs)
+    width: 35px
+    height: 35px
 
 .slyder-a__bullets__item
   background-color: #1D6350

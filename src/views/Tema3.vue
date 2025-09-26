@@ -51,10 +51,10 @@
           p.mb-0 La adecuada clasificación de estos movimientos, permite una visión clara del comportamiento financiero de la entidad y facilita la formulación de proyecciones realistas.
 
     .row.justify-content-center.mb-0
-      .col-lg-4.col-6.mb-4.mb-lg-0(data-aos="fade-left")
+      .col-lg-5.col-sm-7.col-10.mb-4(data-aos="flip-up")
         figure
           img(src='@/assets/curso/temas/tema3/img-05.png', alt='Imagen decorativa')
-      .col-lg-6
+      .col-lg-5(data-aos="fade-left")
         p(data-aos="fade-left") El flujo de caja no debe analizarse de manera aislada, sino como parte integral del sistema contable de la organización. Su elaboración debe estar respaldada por registros contables confiables, soportes documentales y políticas claras sobre el manejo de recursos. Como lo plantea León García (2009), la planeación del flujo de caja debe vincularse directamente con los objetivos institucionales, la estructura de ingresos y gastos, así como las necesidades de financiamiento o inversión. En el caso de las organizaciones solidarias, este análisis se vuelve crucial para garantizar que los compromisos sociales puedan cumplirse sin poner en riesgo la estabilidad financiera.
         p(data-aos="fade-right") Asimismo, el flujo de caja es un insumo clave para evaluar #[b la liquidez], la cual será abordada con más profundidad en la siguiente temática. La información que se obtiene del flujo permite identificar momentos críticos en los que la organización podría experimentar déficit de efectivo, así como oportunidades para optimizar la gestión de tesorería. Una lectura adecuada de los movimientos financieros también contribuye a fortalecer la planeación de actividades, la programación de desembolsos y el seguimiento de los fondos sociales. En este sentido, el flujo de caja no solo es una herramienta contable, sino también una guía práctica para la toma de decisiones responsables y alineadas con los principios de la economía solidaria.
 
@@ -143,27 +143,27 @@
     .tarjeta.BGIMG01(data-aos="fade-left")
       .p-4.p-lg-5
         SlyderA(tipo="b")
-          .row.justify-content-center.align-items-center
+          .row.justify-content-center
             .col-lg-6.order-lg-1.order-2
-              .h4 Ingresos  
+              h4 Ingresos  
               p Corresponden a todas las entradas de dinero que recibe la organización y pueden clasificarse en operativos y no operativos. Los ingresos operativos incluyen aportes de asociados, ventas de bienes o servicios solidarios, intereses por préstamos internos y rendimientos de inversiones. Los no operativos abarcan donaciones, auxilios externos o ingresos ocasionales. Esta diferenciación es clave para identificar cuáles fuentes son recurrentes y sostenibles en el tiempo, y cuáles podrían representar ingresos extraordinarios o no previsibles en el flujo regular de recursos.
-            .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+            .col-lg-6.col-12.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema3/img-11.png' style="width: 500px" ,alt='').m-auto
           
-          .row.justify-content-center.align-items-center
+          .row.justify-content-center
             .col-lg-6.order-lg-1.order-2
-              .h4 Egresos
+              h4 Egresos
               p Son las salidas de dinero necesarias para el funcionamiento y cumplimiento de las obligaciones de la organización. Se clasifican comúnmente en egresos operativos (como pago de nómina, servicios, mantenimiento, provisiones y aportes a fondos sociales) y egresos de inversión o financieros (como compra de activos, amortización de deudas o intereses). En el contexto de la economía solidaria, algunos egresos también tienen un componente social, como subsidios, becas o apoyos a la comunidad, los cuales deben registrarse y justificarse según la normatividad vigente y los estatutos internos.
-            .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+            .col-lg-6.col-12.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema3/img-12.png' style="width: 500px" ,alt='').m-auto
           
-          .row.justify-content-center.align-items-center
+          .row.justify-content-center
             .col-lg-6.order-lg-1.order-2
-              .h4 Excedentes
+              h4 Excedentes
               p Representan el resultado positivo entre los ingresos y los egresos al final de un período contable. En las organizaciones solidarias, estos no se consideran utilidades en el sentido tradicional, ya que su destino debe responder a criterios de redistribución, fortalecimiento patrimonial y beneficio colectivo. De acuerdo con la Ley 79 de 1988, los excedentes deben ser aplicados en proporciones establecidas por la Asamblea General a fondos como el de educación, solidaridad y reserva, entre otros. Como lo advierte Ortiz Anaya (2018), la correcta clasificación y aplicación de los excedentes no solo cumple una función técnica, sino que es un reflejo del compromiso ético y social de la organización.
-            .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
+            .col-lg-6.col-12.order-lg-2.order-1.mb-lg-0.mb-4
               figure
                 img(src='@/assets/curso/temas/tema3/img-13.png' style="width: 500px" ,alt='').m-auto
         
