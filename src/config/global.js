@@ -4,7 +4,6 @@ export default {
     descripcionCurso:
       'Este componente brinda fundamentos conceptuales y técnicos para analizar la liquidez financiera en organizaciones solidarias. Incluye estudio normativo, estructura organizacional, documentación contable y flujos de caja. Desarrolla habilidades para interpretar estados financieros, calcular indicadores y aplicar técnicas de análisis, orientando la gestión hacia sostenibilidad financiera y bienestar colectivo.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
